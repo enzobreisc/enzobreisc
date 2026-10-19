@@ -8,18 +8,6 @@
 
 <br>
 
-## Sobre mim
-
-Oi, eu sou o Enzo. Programo com Laravel e gosto de ver uma ideia virar um produto que as pessoas realmente usam, do banco de dados até a tela.
-
-Estudo Ciência da Computação e trabalho em projetos reais, de sistemas para clientes a apps próprios. No dia a dia uso Laravel com React, e Next.js com Supabase quando o projeto pede.
-
-- Agora: construindo o **releia**, um app para Mac feito com Laravel e NativePHP
-- Estudando: testes, arquitetura de back-end e algoritmos
-- Fora do código: livros, que foi o que deu origem ao releia
-
-<br>
-
 ## Stack
 
 <div align="center">
