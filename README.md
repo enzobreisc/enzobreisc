@@ -5,7 +5,10 @@
 
 <h3>Welcome to my profile! A little bit about me:</h3>
 
-- Full Stack Developer, focused on <b>Laravel</b>.
+- Software development student and Full Stack Developer, focused on <b>Laravel</b>.
+- I build full web systems end to end: authentication, dashboards, business rules and APIs, with <b>Laravel</b> on the back-end and <b>React</b> on the front-end.
+- Also into desktop apps with <b>NativePHP</b>, local-first data with <b>SQLite</b>, and online checkout and payments.
+- Always learning, and always shipping side projects like <a href="https://github.com/enzobreisc/releia">releia</a>.
 - Current stack: <b>Laravel</b>, <b>Inertia</b>, <b>React</b>, <b>TypeScript</b>, <b>Supabase</b>.
 
 ---
@@ -20,28 +23,13 @@
 
 <b><a href="https://github.com/enzobreisc/releia">releia</a></b> - Mac app that turns the physical books you read into data, all local on your computer and working offline.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Library</h4>
-      Add books by ISBN or title, with shelves, tags and a reading queue.
-    </td>
-    <td width="33%" valign="top">
-      <h4>Reading</h4>
-      Sessions, progress and highlighted passages per book, right from the Mac menu bar.
-    </td>
-    <td width="33%" valign="top">
-      <h4>Stats</h4>
-      Heatmap, yearly recap (Wrapped) and new book suggestions with the reason why.
-    </td>
-  </tr>
-</table>
+- <b>Library:</b> add books by ISBN or title, with shelves, tags and a reading queue.
+- <b>Reading:</b> sessions, progress and highlighted passages per book, right from the Mac menu bar.
+- <b>Stats:</b> heatmap, yearly recap (Wrapped) and new book suggestions with the reason why.
 
-<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/NativePHP-4B5563" />
-<img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</p>
 
 ---
 
