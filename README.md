@@ -5,7 +5,7 @@
 
 <h3>Welcome to my profile! A little bit about me:</h3>
 
-- Software development student and Full Stack Developer, focused on <b>Laravel</b>.
+- Computer Science student at <b>Univali</b> (Universidade do Vale do Itajaí) and Full Stack Developer, focused on <b>Laravel</b>.
 - I build full web systems end to end: authentication, dashboards, business rules and APIs, with <b>Laravel</b> on the back-end and <b>React</b> on the front-end.
 - Also into desktop apps with <b>NativePHP</b>, local-first data with <b>SQLite</b>, and online checkout and payments.
 - Always learning, and always shipping side projects like <a href="https://github.com/enzobreisc/releia">releia</a>.
