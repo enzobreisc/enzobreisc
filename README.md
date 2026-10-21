@@ -6,7 +6,7 @@
 <h3>Welcome to my profile! A little bit about me:</h3>
 
 - Full Stack Developer, focused on <b>Laravel</b>.
-- Stack atual: <b>Laravel</b>, <b>Inertia</b>, <b>React</b>, <b>TypeScript</b>, <b>Supabase</b>.
+- Current stack: <b>Laravel</b>, <b>Inertia</b>, <b>React</b>, <b>TypeScript</b>, <b>Supabase</b>.
 
 ---
 
