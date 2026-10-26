@@ -25,10 +25,11 @@
 
 - <b>Library:</b> add books by ISBN or title, with shelves, tags and a reading queue.
 - <b>Reading:</b> sessions, progress and highlighted passages per book, right from the Mac menu bar.
+- <b>Phone:</b> the same quick log installs on the phone home screen as a PWA and talks to the Mac over Tailscale, sharing its database.
 - <b>Stats:</b> heatmap, yearly recap (Wrapped) and new book suggestions with the reason why.
 
 <p>
-<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white" />
 </p>
 
 ---
