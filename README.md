@@ -25,7 +25,7 @@
 
 - <b>Library:</b> add books by ISBN or title, with shelves, tags and a reading queue.
 - <b>Reading:</b> sessions, progress and highlighted passages per book, right from the Mac menu bar.
-- <b>Phone:</b> the same quick log installs on the phone home screen as a PWA and talks to the Mac over Tailscale, sharing its database.
+- <b>Phone:</b> the same quick log installs on the phone home screen as a PWA and talks to the Mac over Tailscale, sharing its database, plus a lock screen widget that counts the current session.
 - <b>Stats:</b> heatmap, yearly recap (Wrapped) and new book suggestions with the reason why.
 
 <p>
