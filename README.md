@@ -8,29 +8,49 @@
 - Computer Science student at <b>Univali</b> (Universidade do Vale do Itajaí) and Full Stack Developer, focused on <b>Laravel</b>.
 - I build full web systems end to end: authentication, dashboards, business rules and APIs, with <b>Laravel</b> on the back-end and <b>React</b> on the front-end.
 - Also into desktop apps with <b>NativePHP</b>, local-first data with <b>SQLite</b>, and online checkout and payments.
-- Always learning, and always shipping side projects like <a href="https://github.com/enzobreisc/releia">releia</a>.
+- Always learning, and always shipping side projects like <a href="https://github.com/enzobreisc/releia">releia</a> and <a href="https://github.com/enzobreisc/trilha">trilha</a>.
 - Current stack: <b>Laravel</b>, <b>Inertia</b>, <b>React</b>, <b>TypeScript</b>, <b>Supabase</b>.
 
 ---
 
-<h3>Featured project</h3>
+<h3>Featured projects</h3>
 
-<a href="https://github.com/enzobreisc/releia">
-  <img src="https://raw.githubusercontent.com/enzobreisc/releia/main/material-marca/releia-logo-pack/png/lockup/horizontal-fundo-escuro-1600w.png" alt="releia" width="100%" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+<a href="https://github.com/enzobreisc/releia"><img src="https://raw.githubusercontent.com/enzobreisc/releia/main/material-marca/releia-logo-pack/png/lockup/horizontal-fundo-escuro-1600w.png" alt="releia" height="40" /></a>
 
-<b><a href="https://github.com/enzobreisc/releia">releia</a></b> - Mac app that turns the physical books you read into data, all local on your computer and working offline.
+Mac app that turns the physical books you read into data, all local and working offline.
 
 - <b>Library:</b> add books by ISBN or title, with shelves, tags and a reading queue.
-- <b>Reading:</b> sessions, progress and highlighted passages per book, right from the Mac menu bar.
-- <b>Phone:</b> the same quick log installs on the phone home screen as a PWA and talks to the Mac over Tailscale, sharing its database, plus a lock screen widget that counts the current session.
-- <b>Stats:</b> heatmap, yearly recap (Wrapped) and new book suggestions with the reason why.
+- <b>Reading:</b> sessions, progress and highlights per book, from the menu bar.
+- <b>Phone:</b> installable PWA that shares the Mac's database over Tailscale, plus a lock screen widget.
+- <b>Stats:</b> heatmap, yearly recap and suggestions with the reason why.
 
-<p>
-<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+
+<a href="https://github.com/enzobreisc/releia"><b>View on GitHub →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/enzobreisc/trilha"><img src="https://raw.githubusercontent.com/enzobreisc/trilha/main/public/icon.png" alt="trilha" height="40" align="absmiddle" /> <b>trilha</b></a>
+
+Desktop app to follow a study roadmap topic by topic, log study sessions and keep up with spaced reviews.
+
+- <b>Roadmaps:</b> import a JSON file, follow several at once and update from a newer file.
+- <b>Topics:</b> checklist, code signals, an AI prompt with review checks and an exercise without AI.
+- <b>Reviews:</b> finished topics come back after 7 and 30 days in a single queue.
+- <b>Sessions:</b> time log, contribution graph and streak, all keyboard first.
+
+<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NativePHP-4B5563" /> <img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+
+<a href="https://github.com/enzobreisc/trilha"><b>View on GitHub →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
