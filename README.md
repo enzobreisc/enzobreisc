@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/enzobreisc/releia"><img src="https://raw.githubusercontent.com/enzobreisc/releia/main/material-marca/releia-logo-pack/png/lockup/horizontal-fundo-escuro-1600w.png" alt="releia" height="40" /></a>
+<h3><a href="https://github.com/enzobreisc/releia"><img src="https://raw.githubusercontent.com/enzobreisc/releia/main/material-marca/releia-logo-pack/png/app-icon/app-icon-escuro-macos-512.png" alt="" height="40" align="absmiddle" />&nbsp;releia</a></h3>
 
 Mac app that turns the physical books you read into data, all local and working offline.
 
@@ -35,7 +35,7 @@ Mac app that turns the physical books you read into data, all local and working 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/enzobreisc/trilha"><img src="https://raw.githubusercontent.com/enzobreisc/trilha/main/public/icon.png" alt="trilha" height="40" align="absmiddle" /> <b>trilha</b></a>
+<h3><a href="https://github.com/enzobreisc/trilha"><img src="https://raw.githubusercontent.com/enzobreisc/trilha/main/public/icon.png" alt="" height="40" align="absmiddle" />&nbsp;trilha</a></h3>
 
 Desktop app to follow a study roadmap topic by topic, log study sessions and keep up with spaced reviews.
 
