@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/enzobreisc/releia"><img src="https://raw.githubusercontent.com/enzobreisc/releia/main/material-marca/releia-logo-pack/png/app-icon/app-icon-escuro-macos-512.png" alt="" height="40" align="absmiddle" />&nbsp;releia</a></h3>
+<h3><a href="https://github.com/enzobreisc/releia"><img src="https://raw.githubusercontent.com/enzobreisc/releia/main/public/icon.png" alt="" height="40" align="absmiddle" />&nbsp;releia</a></h3>
 
 Mac app that turns the physical books you read into data, all local and working offline.
 
